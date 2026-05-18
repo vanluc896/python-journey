@@ -11,6 +11,7 @@ Mục tiêu: Hiểu cách khai báo và sử dụng biến
 # dang_hoc = ???  (bool)
 # In ra giá trị và kiểu dữ liệu của mỗi biến bằng type()
 
+
 # TODO 2: Hoán đổi giá trị 2 biến KHÔNG dùng biến tạm
 # a = 10
 # b = 20
